@@ -1,7 +1,9 @@
 body {
 background-color: lightpink;
 }
-
+div {
+    background: linear-gradient(to bottom, #66ffff 0%, #ffff99 100%);
+}
 h1 {
   color: darkblue;
   text-align: center;
